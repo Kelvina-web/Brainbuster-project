@@ -5,8 +5,11 @@ The **Brainbuster Project** is designed to test users knowledge across variuos c
 
 ## Features
 -Dynamic Quiz Gameplay:Randomized multiple choice questions with a timer
+
 Score Tracking and Leaderboard:Stores highscores locally
+
 Category Selection:Users can pick topics for their quiz
+
 Response UI:Claen,intutive design for smooth gameplay
 
 ## Installation

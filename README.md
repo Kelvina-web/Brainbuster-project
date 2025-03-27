@@ -58,4 +58,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MT License. See the LICENSE(./LICENSE) file for details.
 
 ## Acknowledgement
-I'd like to thank my coffee for keepng me awake,my snacks for providing the neccesary fuel,and my procrastination skills for making this journey an adventure.Without you all, this wouldn't have been possible.
+I'd like to thank my coffee for keeping me awake,my snacks for providing the neccesary fuel,and my procrastination skills for making this journey an adventure.Without you all, this wouldn't have been possible.

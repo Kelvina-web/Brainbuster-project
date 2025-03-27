@@ -27,12 +27,17 @@ Response UI:Claen,intutive design for smooth gameplay
   ```
 
 ## Usage
-1. Score Tracking and leaderboard:tracks scores and keep a record of the leaderboard
-Dynamic Quiz Gameplay:randomize multiple choice 
-Category Selection:one can decide which topic to select
-Response UI:for smooth gameplay
+
+* Score Tracking and leaderboard:tracks scores and keep a record of the leaderboard
+
+* Dynamic Quiz Gameplay:randomize multiple choice
+
+* Category Selection:one can decide which topic to select
+
+* Response UI:for smooth gameplay
 
 ## Contributing
+
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch:
@@ -52,3 +57,5 @@ Contributions are welcome! Please follow these steps:
 ## License
 This project is licensed under the MT License. See the LICENSE(./LICENSE) file for details.
 
+## Acknowledgement
+I'd like to thank my coffee for keepng me awake,my snacks for providing the neccesary fuel,and my procrastination skills for making this journey an adventure.Without you all, this wouldn't have been possible.
